@@ -8,5 +8,5 @@ Forecasting
 3. Add "30" to D2
 4. Enter =Forecast in E2
 5. Select Forecast Linear formula -> Enter in values for x, known_y's, known_x's
-NOTE: Know which is Dependent vs Independent Variable
-NOTE: Do Not use data outside of data ranges. Doing so will incur an inaccurate amount.
+# NOTE: Know which is Dependent vs Independent Variable
+# NOTE: Do Not use data outside of data ranges. Doing so will incur an inaccurate amount.
