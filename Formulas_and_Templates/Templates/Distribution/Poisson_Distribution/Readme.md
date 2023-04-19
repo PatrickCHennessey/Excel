@@ -4,7 +4,7 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 Poisson Distribution - Determines the amount of time between events occuring utilizing lambda
 
-ote: Poisson Distribution deals only with whole numbers
+Note: Poisson Distribution deals only with whole numbers
 Note: Think of Poisson Distribution as inverse of exponential function
 
 
