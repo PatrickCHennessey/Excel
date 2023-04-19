@@ -5,8 +5,8 @@ Normal Bell Curve
 
 NORM.DIST 
 
-1. Calculating Probability of exactly "example value: 92": =NORM.DIST(92,B1,B2,FALSE)
-2. Calculating Probablility of "example value: 92 or more" =1-NORM.DIST(92,B1,B2,TRUE)
+1. Calculating Probability of exactly 92: =NORM.DIST(92,B1,B2,FALSE)
+2. Calculating Probablility of 92 or more: =1-NORM.DIST(92,B1,B2,TRUE)
 
 NORM.INV 
 
