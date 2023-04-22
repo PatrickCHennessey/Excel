@@ -1,7 +1,7 @@
 Note: GitHub Repository Path (contains the original unsolved file(s).):
 Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter05/
 
-Single Covariance 
+**Single Covariance** 
 
 Covariance : =(A2-AVERAGE($A$2:$A$11))*(B2-AVERAGE($B$2:$B$11))
 
@@ -12,7 +12,7 @@ Covariance.P function is used in Population calculations.
 Covariance.S function is used in Sample calculations.
 
 
-Multiple Covariance
+**Multiple Covariance**
 
 Cell G2 : =COVARIANCE.S($A$2:$A$11,A2:A11)
 
@@ -24,7 +24,8 @@ Cell G5 : =COVARIANCE.S($D$2:$D$11,A2:A11)
 
 Select G2 through G4 and drag to right to obtain H, I, and J values.
 
-Single Correlation
+**Single Correlation**
 
+Cell D3 : =CORREL(A3:A12,B3:B12)
 
-Multiple Correlation
+**Multiple Correlation**
