@@ -1,5 +1,6 @@
-Note: GitHub Repository Path (contains the original unsolved file.):
-Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter02/02_04_Trendline.xlsx
+Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter02/
+
+*Note: GitHub Repository Path (contains the original unsolved file.)*:
 
 Add Trendlines
 
