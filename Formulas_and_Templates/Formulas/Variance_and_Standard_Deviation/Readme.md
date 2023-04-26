@@ -2,6 +2,9 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 *Note: Above GitHub Repository Path contains the original unsolved file.*
 
+**Mean**
+
+*Note: Will need the Mean of the Order Values in order to calculate further formulas* 
 
 **Error**
 
@@ -23,8 +26,12 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 **Variance.S**
 
+*Used in calculating samples within a set of data*
+
 =VAR.S(C4:C13)
 
 **Standard Deviation.S**
+
+*Used in calculating samples within a set of data*
 
 =STDEV.S(C4:C13)
