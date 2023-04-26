@@ -2,7 +2,7 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 *Note: GitHub Repository Path (contains the original unsolved file.)*:
 
-Add Trendlines
+**Add Trendlines**
 
 1. Click on chart
 2. Click "Chart Design" on Excel Ribbon
