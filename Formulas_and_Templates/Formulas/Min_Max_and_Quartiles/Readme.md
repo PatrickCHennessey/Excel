@@ -2,11 +2,11 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 *Note: Above GitHub Repository Path contains the original unsolved file.*
 
-**Minimum**
+**Minimum Value**
 
 =MIN(A2:A40)
 
-**Maximum**
+**Maximum Value**
 
 =MAX(A2:A40)
 
