@@ -1,5 +1,7 @@
-Note: GitHub Repository Path (contains the original unsolved file.):
-Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter02/02_03_LogarithmicScale.xlsx
+Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter02/
+
+*Note: GitHub Repository Path (contains the original unsolved file.)*:
+
 
 
 Adjust a Logarithmic Scale Chart
