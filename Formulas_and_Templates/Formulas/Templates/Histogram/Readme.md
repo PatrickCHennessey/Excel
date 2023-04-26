@@ -3,7 +3,7 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 *Note: GitHub Repository Path (contains the original unsolved file.)*:
 
 
-Create a Histogram
+**Create a Histogram**
 
 1. Click on Data to have a Histogram chart made of
 2. Navigate to Insert Tab -> Click on "Insert Statistic Chart" dropdown icon -> Select Histogram.
