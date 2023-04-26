@@ -4,7 +4,7 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 
 
-Adjust a Logarithmic Scale Chart
+**Adjust a Logarithmic Scale Chart**
 
 1. Right click vertical axis -> Click "Format Axis"
 2. Click Logarithmic scale checkbox and verify base amount.
