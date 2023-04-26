@@ -1,5 +1,7 @@
-Note: GitHub Repository Path (contains the original unsolved file.):
-Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter02/02_02_XYScatter.xlsx
+Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exercise Files/Chapter02/
+
+*Note: GitHub Repository Path (contains the original unsolved file.)*:
+
 
 Create an XY Scatter Chart
 1. Click any cell in data set
