@@ -4,19 +4,15 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 
 **Standard Deviation**
 
+**Number of Measurements (n)**
 
+**Confidence Interval AKA Certainty Level**
 
-**Certainty Level**
-
-
+*Note: Refer to .png file. Z-Score is tied to this* 
 
 **Z-Score**
 
 *Note: Z-Score = # of Standard Deviations that your confidence is from the Mean*
-
-**Number of Measurements (n)**
-
-
 
 **Standard Error**
 
