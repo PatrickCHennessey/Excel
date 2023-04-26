@@ -21,6 +21,6 @@ Excel/LIL/Learning_Excel_Data_Analysis/Ex_Files_Learning_Excel_Data_Analysis/Exe
 =QUARTILE.EXC($A$2:$A$40,2)
 
 **Third Quartile (75th Percentile)**
-*Note: 75th Percentile - Also known as the third, or upper, quartile. The value under which 75% of data points are found when arranged in increasing order.
+*Note: 75th Percentile - Also known as the third, or upper, quartile. The value under which 75% of data points are found when arranged in increasing order.*
 
 =QUARTILE.EXC($A$2:$A$40,3)
