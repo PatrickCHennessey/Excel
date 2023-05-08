@@ -1,2 +1,2 @@
 # Excel
-Excel exercises
+Excel exercises and projects. 
