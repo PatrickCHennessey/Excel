@@ -1,4 +1,4 @@
-LinkedIn Interactive Dashboard
+#  LinkedIn Interactive Dashboard
 
 This project will create an Interactive Dashboard utilizing a dataset based on postings from LinkledIn.
 
